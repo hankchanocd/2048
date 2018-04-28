@@ -9,7 +9,7 @@ CACHE MANIFEST
 index.html
 
 # CSS
-style/main.css
+# style/main.css
 
 # Fonts
 style/fonts/clear-sans.css
